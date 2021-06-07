@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.mote{
+    font-size: 15px;
+    color: black;
+}
+.speed{
+    float: left;
+}
+.img_speed{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.volume{
+    float: right;
+}
+.play{
+    width: 130;
+font-size: 25px;
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
